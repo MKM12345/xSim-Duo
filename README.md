@@ -71,8 +71,8 @@ For major changes, please open an issue first to discuss what you would like to 
 - [Evil Wizard 2](https://luizmelo.itch.io/evil-wizard-2)
 
 **Sounds:**
-- [mrrap4fo...](https://freesound.org/people/mrrap4food/sounds/493918/)
-- [Herkules...](https://freesound.org/people/Herkules92/sounds/547600/)
+- [mrrap4food...](https://freesound.org/people/mrrap4food/sounds/493918/)
+- [Herkules92...](https://freesound.org/people/Herkules92/sounds/547600/)
 - [qubodup...](https://freesound.org/people/qubodup/sounds/442872/)
 
 **Font:**
