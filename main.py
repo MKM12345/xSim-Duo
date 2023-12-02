@@ -1,3 +1,4 @@
+# Copyright (c) 2023 MKM12345
 import pygame
 from pygame import mixer
 from fighter import Fighter
