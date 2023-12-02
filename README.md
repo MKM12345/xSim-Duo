@@ -9,6 +9,7 @@ Welcome to **xSim-Duo**, an exciting player vs player (PvP) battle game where tw
 - [Controls](#controls)
 - [Working On](#working-on)
 - [Credits](#credits)
+- [License](#license)
 
 ## Introduction
 
@@ -31,7 +32,7 @@ To get started with **xSim-Duo**, follow these simple steps:
 1. Clone the repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-username/xsim-duo.git
+    git clone https://github.com/mkm12345/xsim-duo.git
     ```
 
 2. Install the required dependencies.
@@ -52,5 +53,8 @@ I am trying to turn the Mage into an AI that attcks so the player is the warrior
 
 ## Credits
 Gained Assets from The Street Fighter Game.
+
+## License
+Licensed under the [MIT LICENSE](LICENSE)
 
 **Enjoy!**
