@@ -6,6 +6,7 @@ Welcome to **xSim-Duo**, an exciting player vs player (PvP) battle game where tw
 - [Introduction](#introduction)
 - [Game Features](#game-features)
 - [Installation](#installation)
+- [Preview](#preview}
 - [Controls](#controls)
 - [Working On](#working-on)
 - [Credits](#credits)
@@ -41,6 +42,9 @@ To get started with **xSim-Duo**, follow these simple steps:
     pip install -r requirements.txt
 
 Or directly git clone this repo and run main.py!
+
+## Preview
+Download exe on my [itch.io](https://sharazer.itch.io/xsim-duo) to test.
 
 ## Controls
 #### Movement:
