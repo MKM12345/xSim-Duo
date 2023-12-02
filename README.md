@@ -7,7 +7,7 @@ Welcome to **xSim-Duo**, an exciting player vs player (PvP) battle game where tw
 - [Game Features](#game-features)
 - [Installation](#installation)
 - [Controls](#controls)
-- [Gameplay](#gameplay)
+- [Working On](#working-on)
 - [Credits](#credits)
 
 ## Introduction
@@ -40,3 +40,17 @@ To get started with **xSim-Duo**, follow these simple steps:
     pip install -r requirements.txt
 
 Or directly git clone this repo and run main.py!
+
+## Controls
+#### Movement:
+To move the warrior use WASD to move and to move mage use arrow keys
+#### Attacks:
+Press "R" or "T" to make the warrior attack and "8" or "9" to make the Mage attack.
+
+## Working On
+I am trying to turn the Mage into an AI that attcks so the player is the warrior so to make the game interesting.
+
+## Credits
+Gained Assets from The Street Fighter Game.
+
+**Enjoy!**
