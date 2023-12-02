@@ -1,4 +1,5 @@
 # Copyright (c) 2023 MKM12345
+# Thanks to luizmelo at itch.io for SpriteSheets! Really appreciate it!
 import pygame
 from pygame import mixer
 from fighter import Fighter
