@@ -9,6 +9,7 @@ Welcome to **xSim-Duo**, an exciting player vs player (PvP) battle game where tw
 - [Preview](#preview)
 - [Controls](#controls)
 - [Working On](#working-on)
+- [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
 
@@ -54,6 +55,12 @@ Press "R" or "T" to make the warrior attack and "8" or "9" to make the Mage atta
 
 ## Working On
 I am trying to turn the Mage into an AI that attcks so the player is the warrior so to make the game interesting.
+
+## Contributing
+
+Pull requests are welcome. 
+
+For major changes, please open an issue first to discuss what you would like to change.
 
 ## Credits
 **Credits for assets used:**
