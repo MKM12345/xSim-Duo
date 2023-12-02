@@ -1,4 +1,5 @@
 # xSim-Duo: Warrior vs Mage
+![image](https://github.com/MKM12345/xSim-Duo/assets/120132998/db02a8fa-82f6-41aa-a3d1-afb83369a648)
 
 Welcome to **xSim-Duo**, an exciting player vs player (PvP) battle game where two powerful characters, a Warrior and a Mage, clash in epic combat! Choose your side and engage in intense battles with your opponent to prove who is the ultimate champion.
 
