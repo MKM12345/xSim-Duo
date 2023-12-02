@@ -6,7 +6,7 @@ Welcome to **xSim-Duo**, an exciting player vs player (PvP) battle game where tw
 - [Introduction](#introduction)
 - [Game Features](#game-features)
 - [Installation](#installation)
-- [Preview](#preview}
+- [Preview](#preview)
 - [Controls](#controls)
 - [Working On](#working-on)
 - [Credits](#credits)
@@ -56,7 +56,20 @@ Press "R" or "T" to make the warrior attack and "8" or "9" to make the Mage atta
 I am trying to turn the Mage into an AI that attcks so the player is the warrior so to make the game interesting.
 
 ## Credits
-Gained Assets from The Street Fighter Game.
+**Credits for assets used:**
+
+**Images:**
+- [Fantasy Warrior](https://luizmelo.itch.io/fantasy-warrior)
+- [Evil Wizard 2](https://luizmelo.itch.io/evil-wizard-2)
+
+**Sounds:**
+- [mrrap4fo...](https://freesound.org/people/mrrap4food/sounds/493918/)
+- [Herkules...](https://freesound.org/people/Herkules92/sounds/547600/)
+- [qubodup...](https://freesound.org/people/qubodup/sounds/442872/)
+
+**Font:**
+- [Turok Font](https://fontmeme.com/fonts/turok-font/)
+
 
 ## License
 Licensed under the [MIT LICENSE](LICENSE)
