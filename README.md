@@ -70,10 +70,10 @@ For major changes, please open an issue first to discuss what you would like to 
 - [Fantasy Warrior](https://luizmelo.itch.io/fantasy-warrior)
 - [Evil Wizard 2](https://luizmelo.itch.io/evil-wizard-2)
 
-**Sounds:**
-- [mrrap4food...](https://freesound.org/people/mrrap4food/sounds/493918/)
-- [Herkules92...](https://freesound.org/people/Herkules92/sounds/547600/)
-- [qubodup...](https://freesound.org/people/qubodup/sounds/442872/)
+**Sounds (freesound.org usernames):**
+- [mrrap4food](https://freesound.org/people/mrrap4food/sounds/493918/)
+- [Herkules92](https://freesound.org/people/Herkules92/sounds/547600/)
+- [qubodup](https://freesound.org/people/qubodup/sounds/442872/)
 
 **Font:**
 - [Turok Font](https://fontmeme.com/fonts/turok-font/)
