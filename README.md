@@ -56,8 +56,7 @@ To move the warrior use WASD.
 Press "R" or "T" to make the warrior attack.
 
 ## Working On
-I am trying to turn the Mage into an AI that attacks, so the player can enjoy the role of the Warrior in this exciting battle against dark forces. [x]
- - Done. Implemented a new MageAI class.
+Fix bugs and the Mage seems way too OP.
 
 ## Contributing
 
