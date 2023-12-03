@@ -20,7 +20,7 @@ Welcome to **xSim-Duo**! Developed in Pygame, this is an exciting player vs play
 
 ## Game Features
 
-- **Warrior vs Evil Mage:** Choose your favorite class and engage in thrilling battles. Play as the Warrior to defeat the sinister Evil Mage. Will you rely on the Warrior's strength and sword skills to overcome the dark magic?
+- **Warrior vs Evil Mage:** Play as the Warrior to defeat the sinister Evil Mage. Will you rely on the Warrior's strength and sword skills to overcome the dark magic?
 
 - **Stunning Visuals:** Immerse yourself in the beautifully crafted game world, featuring detailed backgrounds, lively animations, and powerful special effects that bring the characters to life.
 
