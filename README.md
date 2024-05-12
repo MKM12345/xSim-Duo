@@ -1,7 +1,7 @@
-# xSim-Duo: Warrior vs Evil Mage
-![image](https://github.com/MKM12345/xSim-Duo/assets/120132998/db02a8fa-82f6-41aa-a3d1-afb83369a648)
+# Mystical Combats
+![image](https://github.com/MKM12345/Mystical-Combats/assets/120132998/db02a8fa-82f6-41aa-a3d1-afb83369a648)
 
-Welcome to **xSim-Duo**! Developed in Pygame, this is an exciting player vs player (PvP) battle game where two powerful characters, a Warrior and an Evil Mage, clash in epic combat! Play with Warrior and engage in intense battles with your opponent to prove who is the ultimate champion!
+Welcome to **Mystical Combats**! Developed in Pygame, this is an exciting player vs player (PvP) battle game where two powerful characters, a Warrior and an Evil Mage, clash in epic combat! Play with Warrior and engage in intense battles with your opponent to prove who is the ultimate champion!
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -16,7 +16,7 @@ Welcome to **xSim-Duo**! Developed in Pygame, this is an exciting player vs play
 
 ## Introduction
 
-**xSim-Duo** brings together the brawn of a Warrior and the dark magic of an Evil Mage in a visually stunning and action-packed experience. The game features dynamic animations, responsive controls, and an engaging PvP system that will keep players on the edge of their seats.
+**Mystical Combats** brings together the brawn of a Warrior and the dark magic of an Evil Mage in a visually stunning and action-packed experience. The game features dynamic animations, responsive controls, and an engaging PvP system that will keep players on the edge of their seats.
 
 ## Game Features
 
@@ -30,12 +30,12 @@ Welcome to **xSim-Duo**! Developed in Pygame, this is an exciting player vs play
 
 ## Installation
 
-To get started with **xSim-Duo**, follow these simple steps:
+To get started with **Mystical Combats**, follow these simple steps:
 
 1. Clone the repository to your local machine.
 
     ```bash
-    git clone https://github.com/mkm12345/xsim-duo.git
+    git clone https://github.com/mkm12345/mystical-combats.git
     ```
 
 2. Install the required dependencies.
